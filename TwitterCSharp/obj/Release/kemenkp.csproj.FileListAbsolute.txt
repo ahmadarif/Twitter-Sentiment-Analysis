@@ -1,0 +1,83 @@
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\TwitterCSharp\TwitterCSharp\bin\Release\SNA.exe.config
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\TwitterCSharp\TwitterCSharp\obj\Release\SNA.exe
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\TwitterCSharp\TwitterCSharp\obj\Release\SNA.pdb
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\SNA.exe.config
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\obj\Release\SNA.exe
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\obj\Release\SNA.pdb
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\SNA.exe
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\SNA.pdb
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Autofac.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Aylien.TextApi.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\MySql.Data.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Newtonsoft.Json.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\System.Net.Http.Extensions.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\System.Net.Http.Primitives.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\System.Windows.Forms.DataVisualization.MSChartExtension.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Controllers.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Core.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Credentials.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Factories.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Logic.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Security.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Streams.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.WebLogic.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Autofac.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\Newtonsoft.Json.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\System.Net.Http.Extensions.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\System.Net.Http.Primitives.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\bin\Release\System.Windows.Forms.DataVisualization.MSChartExtension.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\obj\Release\kemenkp.csprojResolveAssemblyReference.cache
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\obj\Release\TwitterCSharp.Form1.resources
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\obj\Release\TwitterCSharp.FrmDataTrining.resources
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\obj\Release\TwitterCSharp.ProgressDialog.resources
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\obj\Release\TwitterCSharp.Properties.Resources.resources
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\kemenkp\TwitterCSharp\obj\Release\kemenkp.csproj.GenerateResource.Cache
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\SNA.exe.config
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\obj\Release\SNA.exe
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\obj\Release\SNA.pdb
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\SNA.exe
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\SNA.pdb
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Autofac.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Aylien.TextApi.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\MySql.Data.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\System.Windows.Forms.DataVisualization.MSChartExtension.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Controllers.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Core.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Credentials.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Factories.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Logic.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Security.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.Streams.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Tweetinvi.WebLogic.dll
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Autofac.xml
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\System.Windows.Forms.DataVisualization.MSChartExtension.xml
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\obj\Release\kemenkp.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\obj\Release\TwitterCSharp.Form1.resources
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\obj\Release\TwitterCSharp.FrmDataTrining.resources
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\obj\Release\TwitterCSharp.ProgressDialog.resources
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\obj\Release\TwitterCSharp.Properties.Resources.resources
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\obj\Release\kemenkp.csproj.GenerateResource.Cache
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\SNA.exe.manifest
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\bin\Release\SNA.application
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\obj\Release\SNA.exe.manifest
+C:\Users\Ahmad Arif\Downloads\Compressed\kemenkp\TwitterCSharp\obj\Release\SNA.application

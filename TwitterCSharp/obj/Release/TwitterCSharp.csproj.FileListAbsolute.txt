@@ -1,0 +1,80 @@
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\TwitterCSharp.exe.config
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\TwitterCSharp.exe
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\TwitterCSharp.pdb
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Autofac.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Aylien.TextApi.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\MySql.Data.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Newtonsoft.Json.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\System.Net.Http.Extensions.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\System.Net.Http.Primitives.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\System.Windows.Forms.DataVisualization.MSChartExtension.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Controllers.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Core.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Credentials.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Factories.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Logic.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Security.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Streams.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.WebLogic.dll
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Autofac.xml
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.xml
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\Newtonsoft.Json.xml
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\System.Net.Http.Extensions.xml
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\System.Net.Http.Primitives.xml
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\bin\Release\System.Windows.Forms.DataVisualization.MSChartExtension.xml
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.csprojResolveAssemblyReference.cache
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.Form1.resources
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.FrmDataTrining.resources
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.ProgressDialog.resources
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.Properties.Resources.resources
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.csproj.GenerateResource.Cache
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.exe
+D:\semester 2\SNA\Latihan\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.pdb
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\TwitterCSharp.exe.config
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.exe
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.pdb
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\TwitterCSharp.exe
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\TwitterCSharp.pdb
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Autofac.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Aylien.TextApi.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\MySql.Data.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Newtonsoft.Json.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\System.Net.Http.Extensions.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\System.Net.Http.Primitives.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\System.Windows.Forms.DataVisualization.MSChartExtension.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Controllers.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Core.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Credentials.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Factories.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Logic.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Security.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.Streams.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Tweetinvi.WebLogic.dll
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Autofac.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\Newtonsoft.Json.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\System.Net.Http.Extensions.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\System.Net.Http.Primitives.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\bin\Release\System.Windows.Forms.DataVisualization.MSChartExtension.xml
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.csprojResolveAssemblyReference.cache
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.Form1.resources
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.FrmDataTrining.resources
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.ProgressDialog.resources
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.Properties.Resources.resources
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\3. Referensi Lain\Bahan Analysis and Design\Dari Rico\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.csproj.GenerateResource.Cache
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\TwitterCSharp\TwitterCSharp\bin\Release\TwitterCSharp.exe.config
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.exe
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\TwitterCSharp\TwitterCSharp\obj\Release\TwitterCSharp.pdb
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\TwitterCSharp\TwitterCSharp\bin\Release\SNA.exe.config

@@ -1,0 +1,1 @@
+D:\2. SEMESTER II\IF5144 - Jaringan dan Informasi Sosial\2. Tugas\5. Tugas Analysis and Design SNA\TwitterCSharp\TwitterCSharp\bin\Debug\SNA.exe.config
