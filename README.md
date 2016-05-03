@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-Sentiment analysis from Twitter using Naive Bayes
+Sentiment analysis from Twitter using Naive Bayes Classification
